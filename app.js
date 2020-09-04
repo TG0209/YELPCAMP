@@ -29,7 +29,7 @@ app.use(flash());
 
 // passport config
 app.use(require("express-session")({
-	secret:"fuck off",
+	secret:"onn off",
 	resave:false,
 	saveUninitialized:false,
 	
